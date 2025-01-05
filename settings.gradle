@@ -10,5 +10,5 @@ include(
     "chapter5-(5)",
     "chapter6",
     "chapter7",
-    "chapter8"
+    "chapter8-10"
 )
